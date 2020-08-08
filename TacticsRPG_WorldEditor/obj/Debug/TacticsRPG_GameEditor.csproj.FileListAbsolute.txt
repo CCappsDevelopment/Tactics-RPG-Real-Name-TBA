@@ -40,3 +40,87 @@ E:\Projects\Game Development\MonoGame\Tactics RPG\TacticsRPG_WorldEditor\obj\Deb
 E:\Projects\Game Development\MonoGame\Tactics RPG\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.CopyComplete
 E:\Projects\Game Development\MonoGame\Tactics RPG\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.exe
 E:\Projects\Game Development\MonoGame\Tactics RPG\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.pdb
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_WorldEditor.exe.config
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_WorldEditor.exe
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_WorldEditor.pdb
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Extended.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Extended.Input.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Forms.DX.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Framework.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct2D1.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D11.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D9.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.DXGI.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Mathematics.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XAudio2.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XInput.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_GameEngine.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_GameEngine.pdb
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Forms.DX.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Framework.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct2D1.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D11.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D9.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.DXGI.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Mathematics.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.MediaFoundation.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XAudio2.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XInput.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csprojAssemblyReference.cache
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.TacticsRPG_GameEditor_MainWindow.resources
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Menus.EditTilesetDialog.resources
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Menus.GenerateFramesDialog.resources
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Menus.NewMapDialog.resources
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Properties.Resources.resources
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.GenerateResource.cache
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.CoreCompileInputs.cache
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.CopyComplete
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.exe
+E:\Projects\Game Development\MonoGame\Tactics RPG - Copy\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.pdb
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_WorldEditor.exe.config
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_WorldEditor.exe
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_WorldEditor.pdb
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Extended.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Extended.Input.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Forms.DX.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Framework.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct2D1.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D11.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D9.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.DXGI.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Mathematics.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XAudio2.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XInput.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_GameEngine.dll
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\TacticsRPG_GameEngine.pdb
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Forms.DX.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\MonoGame.Framework.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct2D1.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D11.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Direct3D9.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.DXGI.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.Mathematics.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.MediaFoundation.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XAudio2.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\bin\Debug\SharpDX.XInput.xml
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csprojAssemblyReference.cache
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.TacticsRPG_GameEditor_MainWindow.resources
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Menus.EditTilesetDialog.resources
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Menus.GenerateFramesDialog.resources
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Menus.NewMapDialog.resources
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.Properties.Resources.resources
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.GenerateResource.cache
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.CoreCompileInputs.cache
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_GameEditor.csproj.CopyComplete
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.exe
+E:\Projects\Game Development\MonoGame\Tactics-RPG-Real-Name-TBA\TacticsRPG_WorldEditor\obj\Debug\TacticsRPG_WorldEditor.pdb
