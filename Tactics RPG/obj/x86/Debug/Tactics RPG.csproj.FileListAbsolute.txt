@@ -1,0 +1,29 @@
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\Tactics RPG.exe
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\Tactics RPG.pdb
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\obj\x86\Debug\Tactics RPG.csprojAssemblyReference.cache
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\obj\x86\Debug\Tactics RPG.csproj.CoreCompileInputs.cache
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\obj\x86\Debug\Tactics RPG.csproj.CopyComplete
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\obj\x86\Debug\Tactics RPG.exe
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\obj\x86\Debug\Tactics RPG.pdb
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\Tactics RPG.exe.config
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\MonoGame.Extended.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\TacticsRPG_GameEngine.dll
+E:\Projects\Game Development\MonoGame\Tactics RPG\Tactics RPG\bin\Windows\x86\Debug\TacticsRPG_GameEngine.pdb
