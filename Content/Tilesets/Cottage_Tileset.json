@@ -1,0 +1,186 @@
+{
+  "FilePath": "..\\..\\..\\Content\\Tilesets\\Cottage_Tileset.json",
+  "Name": "Cottage Tileset",
+  "Frames": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 32,
+      "Y": 0,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 64,
+      "Y": 0,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 96,
+      "Y": 0,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 128,
+      "Y": 0,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 160,
+      "Y": 0,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 0,
+      "Y": 32,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 32,
+      "Y": 32,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 64,
+      "Y": 32,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 96,
+      "Y": 32,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 128,
+      "Y": 32,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 160,
+      "Y": 32,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 0,
+      "Y": 64,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 32,
+      "Y": 64,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 64,
+      "Y": 64,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 96,
+      "Y": 64,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 128,
+      "Y": 64,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 160,
+      "Y": 64,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 0,
+      "Y": 96,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 32,
+      "Y": 96,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 64,
+      "Y": 96,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 96,
+      "Y": 96,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 128,
+      "Y": 96,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 160,
+      "Y": 96,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 0,
+      "Y": 128,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 32,
+      "Y": 128,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 64,
+      "Y": 128,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 96,
+      "Y": 128,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 128,
+      "Y": 128,
+      "Width": 32,
+      "Height": 32
+    },
+    {
+      "X": 160,
+      "Y": 128,
+      "Width": 32,
+      "Height": 32
+    }
+  ]
+}

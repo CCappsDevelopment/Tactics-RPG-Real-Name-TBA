@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tactics RPG", "Tactics RPG\Tactics RPG.csproj", "{C4F7A45B-59C3-4A33-8C23-69ED97763212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacticsRPG_GameEngine", "TacticsRPG_GameEngine\TacticsRPG_GameEngine.csproj", "{1491AFD0-CE65-48A0-9126-25AD1E2597D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacticsRPG_GameEditor", "TacticsRPG_WorldEditor\TacticsRPG_GameEditor.csproj", "{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F7A45B-59C3-4A33-8C23-69ED97763212}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C4F7A45B-59C3-4A33-8C23-69ED97763212}.Debug|x86.ActiveCfg = Debug|x86
+		{C4F7A45B-59C3-4A33-8C23-69ED97763212}.Debug|x86.Build.0 = Debug|x86
+		{C4F7A45B-59C3-4A33-8C23-69ED97763212}.Release|Any CPU.ActiveCfg = Release|x86
+		{C4F7A45B-59C3-4A33-8C23-69ED97763212}.Release|x86.ActiveCfg = Release|x86
+		{C4F7A45B-59C3-4A33-8C23-69ED97763212}.Release|x86.Build.0 = Release|x86
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Debug|x86.Build.0 = Debug|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Release|x86.ActiveCfg = Release|Any CPU
+		{1491AFD0-CE65-48A0-9126-25AD1E2597D1}.Release|x86.Build.0 = Release|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Debug|x86.Build.0 = Debug|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Release|x86.ActiveCfg = Release|Any CPU
+		{ABA497E7-13AA-4DDF-B811-03DF31CAAF72}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF156326-CE1E-42D1-BF62-3E1215B3B3C0}
+	EndGlobalSection
+EndGlobal
